@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchMVVM</string>
+    <string name="strUser">Username</string>
+    <string name="strPwd">Password</string>
+    <string name="login">Login</string>
+    <string name="strEmail">Email</string>
+</resources>
